@@ -1,6 +1,6 @@
 Hi, I'm Moka Austine <br/>
 
-I'm a DevOps Engineer with 1 year of hands-on experience in automating infrastructure, <br/>
+I'm a DevOps Engineer ♾️ with 1 year of hands-on experience in automating infrastructure, <br/>
 CI/CD pipelines, and cloud services. I’m passionate about bridging the gap between <br/>
 development and operations to build scalable, reliable, and efficient systems. <br/>
 
