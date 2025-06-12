@@ -7,7 +7,8 @@ development and operations to build scalable, reliable, and efficient systems. <
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moka austine) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsmehere12@duck.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moka austine) <br/>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsmehere12@duck.com) 
 
 # 💻 Tech Stack:
 Website:
