@@ -29,7 +29,7 @@ development and operations to build scalable, reliable, and efficient systems. <
 [![](https://visitcount.itsvg.in/api?id=Moka-Austine&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]() email mokaaustine23@gmail.com
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](paypal.com) email mokaaustine23@gmail.com
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
