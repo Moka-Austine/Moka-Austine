@@ -1,12 +1,11 @@
 Hi, I'm Moka Austine. <br/>
 
-I'm a DevOps Engineer ♾️ with 1 year of hands-on experience in automating infrastructure, <br/>
-CI/CD pipelines, and cloud services. I’m passionate about bridging the gap between <br/>
-development and operations to build scalable, reliable, and efficient systems. <br/>
+Aspiring DevOps Engineer ♾️ currently learning Linux, Docker, Kubernetes, Git, CI/CD, <br/>
+and cloud fundamentals. Passionate about automation, learning, and building reliable systems.
 <br/>
 <br/>
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moka-austine) <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/moka-austine-0531a627a) <br/>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsmehere12@duck.com) 
  <br/>
  <br/>
