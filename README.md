@@ -1,7 +1,7 @@
 Hi, I'm Moka Austine. <br/>
 
 Aspiring DevOps Engineer ♾️ currently learning Linux, Docker, Kubernetes, Git, CI/CD, <br/>
-and cloud fundamentals. Passionate about automation, learning, and building reliable systems.
+and cloud fundamentals. Passionate about automation, learning, building reliable systems and contributing to open-source projects.
 <br/>
 <br/>
 ## 🌐 Socials:
